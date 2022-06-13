@@ -14,13 +14,13 @@ To deploy this to Google Cloud, run:
 Follow alongside instruction that is displayed on your command line screen.
 Fill the gcloud prompts in as follows:
 
-Source code location: Choose your project directory
-Service name: Name your service that will be displayed later
-Enable run.googleapis.com?: y
-Specify a region: I suggest to use us-central1 since it's more stable
-Enable artifactregistry.googleapis.com?: y
-Continue?: y
-Allow unauthenticated? y for now, since this is a project demo
+1. Source code location: Choose your project directory
+2. Service name: Name your service that will be displayed later
+3. Enable run.googleapis.com?: y
+4. Specify a region: I suggest to use us-central1 since it's more stable
+5. Enable artifactregistry.googleapis.com?: y
+6. Continue?: y
+7. Allow unauthenticated? y for now, since this is a project demo
 
 ## Documentation
 
